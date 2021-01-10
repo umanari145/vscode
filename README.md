@@ -14,8 +14,8 @@
 - PlantUML UMLを簡単にかけるプラグイン
 
 ## git
-- gitlens 
-- githistory　差分見やすい
+- gitlens コードに合わせるだけで差分をみることができて便利
+- githistory 履歴の一覧確認ができる
 
 ## PHP コードフォーマット
 - phpcs (×php cs fixer)
