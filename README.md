@@ -8,7 +8,7 @@
 - Japanese Language Pack for Visual Studio Code 基本的な日本語化
 - Markdown Preview Enhanced マークダウンの入力補完
 - PHP IntelliSense PHPの基本的なコードチェック、コード補完など
-
+-Docker Dockerコマンドの入力保管のほか各情報の一覧が可能
 ## UML
 
 - PlantUML UMLを簡単にかけるプラグイン
